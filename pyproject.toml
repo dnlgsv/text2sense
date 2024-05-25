@@ -7,8 +7,8 @@ name = "text2sense"
 version = "0.1.0"
 description = "is a comprehensive tool designed to analyze and enhance text-based content using a variety of advanced techniques, including Natural Language Processing (NLP), Large Language Models (LLM), Computer Vision, Audio Processing, and Recommendation Systems."
 authors = [
-    { name="Daniil Gusev", email="daniilgusev9639@gmail.com" },
-
+    { name="Daniil Gusev", email="daniilgusev9639@gmail.com" }
+]
 [tool.black]
 target-version = ["py311"]
 line-length = 120
