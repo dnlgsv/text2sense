@@ -1,6 +1,6 @@
 # text2sense
 
-**text2sense** is a comprehensive tool designed to analyze and enhance text-based content using a variety of advanced techniques, including Natural Language Processing (NLP), Large Language Models (LLM), Computer Vision, Audio Processing, and Recommendation Systems. 
+**text2sense** is a comprehensive tool designed to analyze and enhance text-based content using a variety of advanced techniques, including Natural Language Processing (NLP), Large Language Models (LLM), Computer Vision, Audio Processing, and Recommendation Systems.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ The idea behind **text2sense** is to take a book file, article, or simple text t
 
 Estimate the author's vocabulary size based on the text.
 
-2. **Frequent Words and Phrases**: ![status](https://img.shields.io/badge/status-done-brightgreen) 
+2. **Frequent Words and Phrases**: ![status](https://img.shields.io/badge/status-done-brightgreen)
 
 Identify the most frequent unigrams, bigrams, trigrams, etc.
 
